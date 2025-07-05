@@ -1,3 +1,2 @@
-Trabajo hecho en React, con ayuda de 5 especiales que no saben hacer un hello world en python.
+Este proyecto esta un proceso y es una plataforma de tienda en línea que permite a usuarios buscar productos, agregarlos al carrito y completar pedidos mediante un sistema de checkout seguro. Los usuarios pueden registrarse, gestionar su cuenta y revisar sus órdenes. Además, se incluyen funcionalidades de administración como el mantenimiento de productos, series, categorías, usuarios y experiencias.
 
-Para el Curso de Programacion Web en la Universidad de Lima 
